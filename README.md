@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Otherlife.xyz
+- 🔭 I’m currently working at [Otherlife.xyz](https://www.otherlife.xyz) // Prev. Nightshift acq. by [MoonPay](https://www.moonpay.com)
 - 💬 Ask me about Next.js, Tailwind CSS, GSAP, Sanity.io, Webflow
 - 📫 How to reach me: jisaac@moonpay.com || hello.joshua@hotmail.com
 - ⚡ Fun fact: Aside from being fascinated by the world wide web, I love minimalism, fashion, taco's and techno 😎
